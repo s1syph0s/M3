@@ -2,5 +2,5 @@
 channel = "nightly-2025-09-04"
 components = [
     "cargo", "rustc", "rust-std", "rust-docs", "rustfmt",
-    "clippy", "rust-src", "llvm-tools-preview", "miri"
+    "clippy", "rust-src", "llvm-tools-preview", "miri", "rust-analyzer"
 ]
