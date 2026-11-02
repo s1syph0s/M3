@@ -1,0 +1,12 @@
+{
+  "extraPaths": [
+    "platform/gem5/src/python",
+    "platform/gem5/src",
+    "platform/gem5/configs"
+  ],
+  "exclude": [
+    "platform/gem5/ext",
+    "build",
+    "**/node_modules"
+  ]
+}
